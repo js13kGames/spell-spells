@@ -1,4 +1,8 @@
 ---
+genres:
+  - roguelike
+  - card-games
+  - strategy
 directors_cut: https://curtastic.com/spellspells
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
